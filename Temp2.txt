@@ -1,0 +1,2 @@
+This is second day 
+now i try to merge this text with previous text(Temp)
